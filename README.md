@@ -1,4 +1,4 @@
-# portfolio-responsive-template : https://portfolioappone.netlify.app/ 
+# Live DEMO: https://portfolioappone.netlify.app/ 
 Build a responsive portfolio app using 
 - HTML
 - CSS
